@@ -176,13 +176,6 @@ Contributions are welcome! Please follow these steps:
 
 This project is under the MIT License. See the `LICENSE` file for more details.
 
-## 📞 Support
 
-For any questions or technical support:
-
-- 📧 Email: [your-email@issat.edu]
-- 📋 Issues: Create a ticket on GitHub
-
----
 
 _Developed with ❤️ for the Higher Institute of Applied Sciences and Technology (ISSAT)_
