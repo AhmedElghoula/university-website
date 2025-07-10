@@ -1,0 +1,9 @@
+.cours{
+    transition: all 0.2s;
+}
+
+.cours:hover {
+  /* display: inline-block; */
+  transform: scale(1.03);
+  /* transition: all 1s; */
+}

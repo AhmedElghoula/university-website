@@ -1,0 +1,13 @@
+
+@media (min-width: 1024px) {
+  /* Hide the modal when the screen size is greater than lg (992px) */
+  .ant-modal-lg-only-visible {
+    display: none;
+  }
+   .ant-modal-lg-only-visible .ant-modal-wrap {
+    display: none !important;
+  }
+   .ant-modal-lg-only-visible .ant-modal-root {
+    display: none !important;
+  }
+}
